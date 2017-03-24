@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Copse');
+h1{
+    text-align:center;
+    color: black
+}
+h2{
+    text-align:center;
+    color: black
+}
+h2{
+    text-align: center;
+    color: black;
+}
+body{
+    font-family: 'Copse', serif;
+    color:black;
+    background-color:#3399ff;
+
+}
+p{
+    font-size: 20px
+}
+
+img{
+    height:300px;
+    margin-bottom: 20px;
+}
+
+img#narrow {
+    width: 700px;[]
+    height: auto;
+}
+img#lower {
+    width:600px;
+    height:auto;
+}

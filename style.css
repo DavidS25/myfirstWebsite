@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Copse');
+
+
+h1{
+    text-align:center;
+    background:linear-gradient(to right, blue, red); /*Standardsyntax */;
+    font-size: 100px
+    
+    
+    
+ 
+}
+p{
+    font-size: 20px
+}
+#DerrickRose {
+    width:50%;
+    margin: auto;
+    font-size: 30px;
+    background-color: #ff751a;
+    
+    
+}
+body{
+    font-family: 'Copse', serif;
+    color:white;
+    background-color: blue;
+    background: linear-gradient(to right, orange, blue); /*Standard syntax */
+}
+img{
+    height:300px;
+    margin-bottom: 20px;
+}
+
+img#narrow {
+    width: 600px;
+    height: auto;
+}
+img#lower {
+    width:600px;
+    height:auto;
+}
+#info, .pictures {
+    text-align: center;
+}
+
+.rose{
+    
+    font-size: 30px;
+}
+.pager {
+        background-color: #000000;
+        color: #FFFFFF;
+        padding: 10px;
+        border-radius: 10px;
+        -moz-border-radius: 10px;
+        -webkit-border-radius: 10px;
+        margin:10px;
+}
